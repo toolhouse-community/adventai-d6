@@ -63,13 +63,11 @@ Toolhouse is the first cloud platform that allows developers to quickly build, m
 
 On Day 6️⃣, we are unwrapping job discovery app that harnesses the power of AI to aggregate opportunities from both traditional job boards and social media conversations, delivering personalized job matches directly to your inbox.
 
-The Job Digest app caries:
+The Job Digest app includes:
 
 - **Regular Job Monitoring**: Monitors remoteok for posted job opportunities matching the preferences entered.
 - **Smart Job Matching**: Leverages AI to analyze your skills, experience, and preferences to identify the most relevant opportunities.
 - **Daily Email Digest**: Delivers a curated collection of job opportunities, including both formal listings and social media leads.
-- **Social Opportunity Detection**: Identifies hiring signals from X conversations, company announcements, and industry discussions.
-- **Industry Trend Analysis**: Includes insights about hiring trends, in-demand skills, and emerging opportunities in your field.
 
 > [!NOTE]
 > This app requires the `send_email`, `memory_fetch`, `memory_store`, and `diffbot` tools.
